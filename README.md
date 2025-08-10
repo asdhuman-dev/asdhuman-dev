@@ -9,24 +9,12 @@
 ![](https://raw.githubusercontent.com/asdhuman-dev/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 <p align="left">
-  My coding space is often filled with the hum of <strong>C</strong>, the elegance of <strong>Python</strong>, the playful spirit of <strong>Lua</strong>, and the power of <strong>C++</strong>. I'm also on an exciting journey into the world of <strong>Rust</strong> and exploring the enchanting possibilities of game development with <strong>C#</strong> in Unity.
+  Mainly working on backends and gamedev, my stack is C#, C++, Python, a bit of Lua, and learning Rust at the moment. I have a mindset of an engineer, so i love to learn how all technology works and love to solve any technical challenges. Love reverse-engineering too, mostly arm/Android.
 </p>
 
 <p align="left">
-  Beyond the lines of code, I'm captivated by:
+Doing not only software, but a bit of hardware too. When it comes to embedded/hardware - mostly C/C++. I can solder, make basic schematics, know how to make DIY boards at home, love reading datasheets and crafting some things.
 </p>
-
-<ul>
-  <li>🎮 Creating captivating universes through <strong>Game Development</strong>.</li>
-  <li>👾 Unraveling the inner workings of games through <strong>Game Hacking</strong> (always with a curious and ethical mindset, I promise!).</li>
-  <li>⚙️ Bringing stuff to life in the tangible realm of <strong>Hardware and Microcontrollers</strong>.</li>
-</ul>
-
-<p align="left">
-  I'm always driven by curiosity and enthusiasm, eager to discover the next captivating challenge or technological enchantment! ✨
-</p>
-
-<br>
 
 <p align="left">
   <strong>Contact with me:</strong><br><br>
